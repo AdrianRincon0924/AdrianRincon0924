@@ -8,7 +8,7 @@ I am a high school student where my main goals have been to help educate people 
 ------------
 
 I am very interested in cybersecurity and artificial intelligence, and I plan to study these areas throughout my career. I want to learn more, work on exciting projects, and keep up with new technologies in both fields.
-## Certifications
+## Notable Certifications
 - CompTIA Security+
 - Microsoft Azure AI
 - Fusion 360 ACU
