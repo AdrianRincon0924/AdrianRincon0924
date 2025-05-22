@@ -13,6 +13,6 @@ I am very interested in cybersecurity and artificial intelligence, and I plan to
 - Microsoft Azure AI
 - Fusion 360 ACU
 ## Accomplisments
-- KnoPro 1st, 2nd, and 3rd place winnings with $10,000 in earnings.
+- Lead in KnoPro 1st, 2nd, and 3rd place winnings with $10,000 in earnings.
 - Career Techincal Education student of the year nominee.
 - Career Technical Education student of the month
